@@ -1,2 +1,2 @@
 # deneme3
-asdfsadf
+bu bir denemedir geldi mi
